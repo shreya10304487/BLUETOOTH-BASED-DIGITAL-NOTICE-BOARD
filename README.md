@@ -1,6 +1,6 @@
 # Bluetooth-Based Digital Notice Board
 
-A Bluetooth-enabled embedded systems project developed using the **LPC2129 ARM7 Microcontroller** to display scrolling messages on an LED dot matrix. Messages are transmitted wirelessly from a mobile device via the **HC-05 Bluetooth module**, verified using a passkey, stored in **AT24C256 EEPROM**, and continuously displayed on the notice board. The project was designed and tested using **Proteus simulation**.
+A Bluetooth-enabled embedded systems project developed using the **LPC2129 ARM7 Microcontroller** to display scrolling messages on an LED dot matrix. Messages are transmitted wirelessly from a mobile device via the **HC-05 Bluetooth module**, verified using a passkey, stored in **AT24C256 EEPROM**, and continuously displayed on the notice board.
 
 ## ✨ Features
 
